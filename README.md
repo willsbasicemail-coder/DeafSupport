@@ -35,9 +35,9 @@ A cross‑platform spatial sound radar designed for Deaf and Hard‑of‑Hearing
 - Optional game‑object sound detection for VR engines  
 
 **Platforms:**
-- Desktop (Sci‑Fi Neon)  
-- Tablet (Blueprint Greek)  
-- Mobile (High‑Contrast)  
+- Desktop   
+- Tablet   
+- Mobile 
 - VR/XR (Holographic 3D Radar)
 
 ---
